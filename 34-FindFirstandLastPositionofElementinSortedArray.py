@@ -21,7 +21,7 @@
 
 # Constraints:
 
-# 0 <= nums.length <= 105
+# 0 = nums.length <= 105
 # -109 <= nums[i] <= 109
 # nums is a non-decreasing array.
 # -109 <= target <= 109
